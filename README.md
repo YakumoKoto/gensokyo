@@ -1,1 +1,1 @@
-#(https://yakumokoto.github.io/gensokyo/)[gensokyo]
+# [https://yakumokoto.github.io/gensokyo/](gensokyo)
